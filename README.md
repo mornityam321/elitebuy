@@ -32,3 +32,4 @@ elitebuy is a full-featured ecommerce web application built using the mern stack
 
 1. clone the repository  
    ```bash
+   https://github.com/mornityam321/elitebuy.git
